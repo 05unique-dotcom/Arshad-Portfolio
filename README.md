@@ -73,7 +73,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ## 📬 Contact Me
 
-**Email:** [arshadansari05@gmail.com](mailto:arshadansari05@gmail.com)
+**Email:** [05unique7057@gmail.com](mailto:arshadansari05@gmail.com)
 **GitHub:** [@05unique-dotcom](https://github.com/05unique-dotcom)
 **Portfolio:** This Repository
 
