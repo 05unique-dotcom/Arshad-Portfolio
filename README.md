@@ -65,7 +65,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 - **Name:** Arshad Ansari
 - **Location:** Kudal, Satara, Maharashtra, India
-- **Education:** 12th Pass | MHT-CET Qualified (98.46 Percentile)
+- **Education:** 12th Pass | MHT-CET Qualified (98.46 Percentile)| JEE Qualified (85 percentile)
 - **Goal:** B.E. in Computer Science Engineering at COEP Pune
 - **Passion:** Building web applications & helping others learn
 
