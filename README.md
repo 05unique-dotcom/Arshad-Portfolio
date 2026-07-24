@@ -1,5 +1,4 @@
-# 🚀 Arshad Ansari - 
-Professional Portfolio
+# 🚀 Arshad Ansari - Professional Portfolio
 
 A modern, interactive portfolio website showcasing my journey as an aspiring **CSE Engineer** and **Python Developer** from Satara, Maharashtra.
 
