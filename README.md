@@ -1,4 +1,5 @@
-# 🚀 Arshad Ansari - Professional Portfolio
+# 🚀 Arshad Ansari - 
+Professional Portfolio
 
 A modern, interactive portfolio website showcasing my journey as an aspiring **CSE Engineer** and **Python Developer** from Satara, Maharashtra.
 
@@ -17,11 +18,17 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 ## ✨ Features
 
 ✅ **Interactive Skills Tracker** - Real-time progress tracking for Python, HTML & CSS
+
 ✅ **Dark/Light Mode Toggle** - Seamless theme switching
+
 ✅ **Animated Progress Bars** - Visual skill representation with smooth animations
+
 ✅ **Contact Form** - Get in touch with email validation
-✅ **Smooth Animations** - Professional fade-in and hover effects
+
+✅ **Smooth Animations** -Professional fade-in and hover effects
+
 ✅ **Responsive Design** - Mobile-friendly interface
+
 ✅ **Professional Layout** - Cyan-themed dark interface
 
 ---
