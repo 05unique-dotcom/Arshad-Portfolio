@@ -1,5 +1,9 @@
-# 🚀 Arshad Ansari - Professional Portfolio
+<img src="profile.jpg" alt="Arshad Ansari"
+width="160"
+style="border-radius:50%; border:4px solid cyan;">
 
+# 🚀 Arshad Ansari - Professional Portfolio
+👀 Visitors: 1,245
 A modern, interactive portfolio website showcasing my journey as an aspiring **CSE Engineer** and **Python Developer** from Satara, Maharashtra.
 
 ---
@@ -122,5 +126,6 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 ---
 
 **Made with ❤️ by Arshad Ansari**
+**© 2026 All Rights Reserved**
 
 *"Every expert was once a beginner. Keep learning, keep building!"*
