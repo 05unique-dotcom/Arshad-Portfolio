@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Arshad Ansari"
+<img src="profile.png" alt="Arshad Ansari"
 width="160"
 style="border-radius:50%; border:4px solid cyan;">
 
