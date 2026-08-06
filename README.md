@@ -46,7 +46,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 - **Portfolio (View Raw HTML):** [Open Portfolio](https://raw.githubusercontent.com/05unique-dotcom/Arshad-Portfolio/main/index1.html)
 - **Portfolio Repository:** [GitHub Repo](https://github.com/05unique-dotcom/Arshad-Portfolio)
-- **Python Learner App:** [Interactive Learning Platform](https://python-learner--05unique7057.replit.app)
+- **Python Learner App:** [Interactive Learning Platform](https://python-learner--arshadansari786.replit.app/)
 - **GitHub Profile:** [@05unique-dotcom](https://github.com/05unique-dotcom)
 - **Portfolio Live:** [View Portfolio](https://05unique-dotcom.github.io/Arshad-Portfolio/ )
 
