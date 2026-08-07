@@ -71,9 +71,9 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=GitHub+Stats+Loading...)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05unique-dotcom&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05unique-dotcom&theme=tokyonight)
