@@ -3,7 +3,7 @@ width="160"
 style="border-radius:50%; border:4px solid cyan;">
 
 # 🚀 Arshad Ansari - Professional Portfolio
-👀 Visitors: 1,245
+
 A modern, interactive portfolio website showcasing my journey as an aspiring **CSE Engineer** and **Python Developer** from Satara, Maharashtra.
 
 ---
@@ -66,6 +66,43 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 | CSS3 | 75% | ✅ Intermediate |
 | JavaScript | 70% | ✅ Basics Done |
 | DSA | - | 🔄 Next Target |
+
+---
+
+
+## GitHub Stats Card
+<img src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight" />
+
+## Top Languages Card
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight" />
+
+---
+
+## Contribution Graph
+<img src="https://ghchart.rshah.org/05unique-dotcom" />
+
+---
+
+## GitHub Stats
+
+<section id="github-stats">
+  <h2>📊 GitHub Stats</h2>
+  
+  <div class="stats-grid">
+    <!-- Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00ffff" />
+    
+    <!-- Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00ffff" />
+  </div>
+  
+  <!-- Contribution Graph -->
+  <img 
+    src="https://ghchart.rshah.org/00ffff/05unique-dotcom" 
+    alt="Contribution Graph"
+    style="width:100%; margin-top:15px;"
+  />
+</section>
 
 ---
 
