@@ -71,8 +71,8 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05unique-dotcom&show_icons=true&theme=tokyonight)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight)
