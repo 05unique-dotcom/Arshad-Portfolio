@@ -77,6 +77,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05unique-dotcom&theme=tokyonight)
 
 ![Contribution Graph](https://ghchart.rshah.org/05unique-dotcom)
 
