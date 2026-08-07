@@ -130,12 +130,13 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
+
 ## 📊 Repository Stats
 
-- **Language:** HTML 100%
-- **Created:** 2026
-- **Last Updated:** Recently
-- **License:** MIT
+- 🗂️ Public Repos: 5
+- 🌟 Total Contributions: 111+
+- 📅 GitHub Since: July 2026
+- 📜 License: MIT
 
 ---
 
