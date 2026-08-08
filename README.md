@@ -75,6 +75,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05unique-dotcom&theme=tokyonight)
 
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=05unique-dotcom&theme=tokyonight&utcOffset=5.5"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05unique-dotcom&theme=tokyonight)
 
