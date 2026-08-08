@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/main/banner.png)
+![Banner](https://raw.githubusercontent.com/05unique-dotcom/Arshad-Portfolio/main/banner.png)
 
 # 🚀 Arshad Ansari - Professional Portfolio
 
