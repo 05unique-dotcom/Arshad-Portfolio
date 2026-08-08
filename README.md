@@ -1,6 +1,4 @@
-<img src="profile.png" alt="Arshad Ansari"
-width="160"
-style="border-radius:50%; border:4px solid cyan;">
+![Banner](https://raw.githubusercontent.com/05unique-dotcom/05unique-dotcom/main/banner.png)
 
 # 🚀 Arshad Ansari - Professional Portfolio
 
