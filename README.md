@@ -73,7 +73,7 @@ A modern, interactive portfolio website showcasing my journey as an aspiring **C
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=05unique-dotcom&theme=tokyonight)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05unique-dotcom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=05unique-dotcom&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=05unique-dotcom&theme=tokyonight&utcOffset=5.5"/>
 
